@@ -1,16 +1,18 @@
 /* Variables */
 
+/*
 :root {
     --pastel-red: #e15757;
     --peach: #ffbf88;
     --light-neon-green: #62ff32;
     --brownish-grey: #696969;
 }
+*/
 
 
 /* Nav */
 
-.navbar {
+.navbar-top {
   position: absolute;
   
   max-width: 1000px;
@@ -125,7 +127,7 @@ div.col div.button-stroke {
   height: 2em;
 }
 
-div.col div.button-stroke a {
+div.col div.button-stroke p {
   top: 0;
   bottom: 0;
   margin: 0 auto;
@@ -145,6 +147,52 @@ img.down {
   bottom: 5.5em;
   margin: 0 auto;
 }
+  
+/* section */
+
+div.section {
+  position: relative;
+  min-height: 20em;
+}
+  
+div.section div.section-header {
+  font-weight: 400;
+  font-size: 1.60em;
+  width: 100%;
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+div.section div.section-footer {
+  position: relative;
+  font-weight: 400;
+  font-size: 1.60em;
+  width: 100%;
+  text-align: center;
+  margin-top: 1em;
+  bottom: 1em;
+  margin-top: auto;
+}
+
+div.section div.section-header::after {
+  width: 2em;
+  border-bottom: 1px solid #ededed;
+}
+
+div.section-down-footer {
+  position: relative;
+  height: 1em;
+}
+
+img.section-down {
+  position: absolute;
+  width: 2.5em;
+  left: 0;
+  right: 0;
+  bottom: 3.8em;
+  margin: 0 auto;
+}
 
 /* default link style */
 a {
@@ -157,8 +205,9 @@ a:hover {
 }
 
 body {
-  background-color: #e15757;
+  background-color: #fff;
   margin: 0;
+  color: #696969;
   
   font-family: 'Open Sans', helvetica, sans-serif;
   font-weight: 300;

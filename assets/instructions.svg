@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="331px" height="326px" viewBox="0 0 331 326" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>instructions</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-HD" sketch:type="MSArtboardGroup" transform="translate(-412.000000, -1662.000000)">
+            <g id="panel_3" sketch:type="MSLayerGroup" transform="translate(0.000000, 1481.000000)">
+                <g id="instructions" transform="translate(412.000000, 181.000000)">
+                    <g id="enter-location-name-+-1-+-Oval-23" transform="translate(1.000000, 65.000000)">
+                        <text id="enter-location-name" sketch:type="MSTextLayer" font-family="Open Sans" font-size="20.4137931" font-weight="260" fill="#FFFFFF">
+                            <tspan x="53" y="25">enter location name</tspan>
+                        </text>
+                        <g id="1-+-Oval-23">
+                            <text id="1" sketch:type="MSTextLayer" font-family="Open Sans" font-size="20.4137931" font-weight="260" fill="#FFFFFF">
+                                <tspan x="12.7586207" y="24.5517241">1</tspan>
+                            </text>
+                            <circle id="Oval-23" stroke="#FFFFFF" sketch:type="MSShapeGroup" cx="18.5" cy="18.5" r="18.5"></circle>
+                        </g>
+                    </g>
+                    <g id="download-kitchen-app-+-1-+-Oval-23-Copy-4" transform="translate(1.000000, 1.000000)">
+                        <text id="download-kitchen-app" sketch:type="MSTextLayer" font-family="Open Sans" font-size="20.4137931" font-weight="260">
+                            <tspan x="53" y="24.0171067" fill="#FFFFFF">download kitchen app (</tspan>
+                            <tspan x="265.939386" y="24.0171067" fill="#AFFB98">here</tspan>
+                            <tspan x="307.923222" y="24.0171067" fill="#FFFFFF">)</tspan>
+                        </text>
+                        <g id="1-+-Oval-23-Copy-4">
+                            <text id="0" sketch:type="MSTextLayer" font-family="Open Sans" font-size="20.4137931" font-weight="260" fill="#FFFFFF">
+                                <tspan x="12.7586207" y="24.5517241">0</tspan>
+                            </text>
+                            <circle id="Oval-23" stroke="#FFFFFF" sketch:type="MSShapeGroup" cx="18.5" cy="18.5" r="18.5"></circle>
+                        </g>
+                    </g>
+                    <g id="enter-address-+-1-+-Oval-23-Copy" transform="translate(0.000000, 136.000000)">
+                        <text id="enter-address" sketch:type="MSTextLayer" font-family="Open Sans" font-size="20.4137931" font-weight="260" fill="#FFFFFF">
+                            <tspan x="54" y="23">enter address</tspan>
+                        </text>
+                        <g id="1-+-Oval-23-Copy" transform="translate(0.500000, 0.500000)">
+                            <text id="2" sketch:type="MSTextLayer" font-family="Open Sans" font-size="20.4137931" font-weight="260" fill="#FFFFFF">
+                                <tspan x="12.7586207" y="24.5517241">2</tspan>
+                            </text>
+                            <circle id="Oval-23" stroke="#FFFFFF" sketch:type="MSShapeGroup" cx="18.5" cy="18.5" r="18.5"></circle>
+                        </g>
+                    </g>
+                    <g id="press-button-at-cent-+-1-+-Oval-23-Copy-2" transform="translate(0.000000, 199.000000)">
+                        <text id="press-button-at-cent" sketch:type="MSTextLayer" font-family="Open Sans" font-size="20.4137931" font-weight="260" fill="#FFFFFF">
+                            <tspan x="54" y="22.0171067">press button at center </tspan>
+                            <tspan x="54" y="50.0171067">of your building</tspan>
+                        </text>
+                        <g id="1-+-Oval-23-Copy-2" transform="translate(0.500000, 11.500000)">
+                            <text id="3" sketch:type="MSTextLayer" font-family="Open Sans" font-size="20.4137931" font-weight="260" fill="#FFFFFF">
+                                <tspan x="12.7586207" y="24.5517241">3</tspan>
+                            </text>
+                            <circle id="Oval-23" stroke="#FFFFFF" sketch:type="MSShapeGroup" cx="18.5" cy="18.5" r="18.5"></circle>
+                        </g>
+                    </g>
+                    <g id="wait-for-us-to-valid-+-1-+-Oval-23-Copy-3" transform="translate(0.000000, 270.000000)">
+                        <text id="wait-for-us-to-valid" sketch:type="MSTextLayer" font-family="Open Sans" font-size="20.4137931" font-weight="260" fill="#FFFFFF">
+                            <tspan x="54" y="22.5">wait for us to validate you, and </tspan>
+                            <tspan x="54" y="50.5">start recieving donations!</tspan>
+                        </text>
+                        <g id="1-+-Oval-23-Copy-3" transform="translate(0.500000, 12.500000)">
+                            <text id="4" sketch:type="MSTextLayer" font-family="Open Sans" font-size="20.4137931" font-weight="260" fill="#FFFFFF">
+                                <tspan x="12.7586207" y="24.5517241">4</tspan>
+                            </text>
+                            <circle id="Oval-23" stroke="#FFFFFF" sketch:type="MSShapeGroup" cx="18.5" cy="18.5" r="18.5"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
