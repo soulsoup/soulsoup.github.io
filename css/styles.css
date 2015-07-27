@@ -1,0 +1,82 @@
+.navbar {
+  position: absolute;
+  
+  max-width: 1000px;
+  width: calc(100% - 40px);
+  height: 40px;
+  
+  margin-left: auto;
+  margin-right: auto;
+  
+  left: 0;
+  right: 0;
+  
+  border-bottom: 1px solid #fff;
+  
+  padding-top: 2px;
+  padding-bottom: 10px;
+}
+
+div.header {
+  width: 100%;
+  display: block;
+}
+
+ul.nav-links {
+  position: absolute;
+  color: #fff;
+  list-style-type: none;
+  width: 160px;
+  
+  right: 0;
+  margin-left: auto;
+  
+  padding: 0;
+}
+
+ul.logo {
+  position: absolute;
+  color: #fff;
+  list-style-type: none;
+  width: 120px;
+  
+  left: 0;
+  margin-right: auto;
+  
+  padding: 0;
+}
+
+img.logo-img {
+  height: 30px;
+}
+
+ul.nav-links li {
+  display: inline;
+}
+
+li.button-stroke {
+  border: 1px solid #fff;
+  padding: 3px 24px 4px 24px;
+  margin-left: 20px;
+  
+  /* This should max it out */
+  border-radius: 100px;
+}
+
+/* default link style */
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ededed;
+}
+
+body {
+  background-color: #696969;
+  margin: 0;
+  
+  font-family: 'Open Sans', helvetica, sans-serif;
+  font-weight: 300;
+}
