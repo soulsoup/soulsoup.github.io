@@ -1,9 +1,21 @@
+/* Variables */
+
+:root {
+    --pastel-red: #e15757;
+    --peach: #ffbf88;
+    --light-neon-green: #62ff32;
+    --brownish-grey: #696969;
+}
+
+
+/* Nav */
+
 .navbar {
   position: absolute;
   
   max-width: 1000px;
-  width: calc(100% - 40px);
-  height: 40px;
+  width: calc(100% - 2em);
+  height: 3em;
   
   margin-left: auto;
   margin-right: auto;
@@ -54,13 +66,84 @@ ul.nav-links li {
   display: inline;
 }
 
-li.button-stroke {
+.button-stroke {
   border: 1px solid #fff;
   padding: 3px 24px 4px 24px;
   margin-left: 20px;
   
   /* This should max it out */
   border-radius: 100px;
+}
+
+/* Hero */
+
+div.hero {
+  height: 38em;
+  background-image: radial-gradient(circle at top left, #ffbf88,#e15757);
+  padding-top: 8em;
+}
+
+div.hero div.block {
+  position: relative;
+  width: 45em;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+
+div.block div.col {
+  position: absolute;
+  width: 24.3em;
+  right: 0;
+  top: 2em;
+  margin: 0 auto;
+  
+  text-align: center;
+  color: #fff;
+}
+
+div.col p.hero-header {
+  font-weight: 600;
+  font-size: 2em;
+}
+
+div.col p.hero-text {
+  font-size: 1.1em;
+  margin-bottom: 2em;
+}
+
+div.col div.button-stroke {
+  width: 12em;
+  
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  margin-bottom: 1em;
+  
+  font-size: 1.1em;
+  
+  height: 2em;
+}
+
+div.col div.button-stroke a {
+  top: 0;
+  bottom: 0;
+  margin: 0 auto;
+  line-height: 1.8em;
+}
+
+div.hero .find-patrons-image {
+  width: 15em;
+  position: absolute;
+}
+
+img.down {
+  position: absolute;
+  width: 2.5em;
+  left: 0;
+  right: 0;
+  bottom: 5.5em;
+  margin: 0 auto;
 }
 
 /* default link style */
@@ -74,7 +157,7 @@ a:hover {
 }
 
 body {
-  background-color: #696969;
+  background-color: #e15757;
   margin: 0;
   
   font-family: 'Open Sans', helvetica, sans-serif;
